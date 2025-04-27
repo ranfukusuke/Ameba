@@ -1,0 +1,14 @@
+
+{
+  "name": "ameba-realtime",
+  "version": "1.0.0",
+  "description": "Realtime brainstorming app prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
